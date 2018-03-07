@@ -1,1 +1,1 @@
-# SparkSQLProject
+# SparkSQL Training
